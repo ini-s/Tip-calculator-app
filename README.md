@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (http://127.0.0.1:5501/)
-- Live Site URL: (https://github.com/ini-s/Tip-calculator-app.git)git 
+- Live Site URL: (https://ini-s.github.io/Tip-calculator-app/)
 
 ## My process
 
